@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: coffee
 day_night: true
-font: ''
+font: 'B612 Mono'
 font_size: L
 
 # SEO
@@ -20,23 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: wzqxiao@ucdavis.edu
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: 1 Shields Ave
+  city:  Davis
   region: CA
-  postcode: '94305'
+  postcode: '95616'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '38.543142974662395 '
+  longitude: '-121.7487763598217'
+
 contact_links:
   - icon: twitter
     icon_pack: fab
