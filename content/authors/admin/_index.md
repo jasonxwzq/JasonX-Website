@@ -70,6 +70,6 @@ email: "wzqxiao@ucdavis.edu"
 highlight_name: false
 ---
 
-I am an applied economics researcher and a Ph.D. candidate at University of California, Davis. My research interest lies in the intersection of agricultural economics and development economics, with a special focus on the impact of climate change on agricultural production in the developing world. I am now working under the guidance of Prof. Richard J. Sexton and Prof. Stephen R. Boucher.
+I am an applied economist and a Ph.D. candidate at University of California, Davis. My research interest lies in the intersection of agricultural economics and development economics, with a special focus on the impact of climate change on agricultural production in the developing world. I am now working under the guidance of Prof. Richard J. Sexton and Prof. Stephen R. Boucher.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
