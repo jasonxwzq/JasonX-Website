@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: ""
+  date_start: "2018-01-01"
   description: "2017, 2018, 2019"
   organization: Teaching Assistant
   organization_url: 
