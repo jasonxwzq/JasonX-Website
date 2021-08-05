@@ -29,7 +29,7 @@ item:
   description:  "Masters capstone course"
   organization: "Teaching Assistant"
   organization_url: 
-  title: "Applied Microeconomics Analysis - ARE 258"
+  title: "Applied Microeconomics Analysis (ARE 258)"
   url: ""
 
 - certificate_url: 
@@ -38,7 +38,7 @@ item:
   description: "Lead discussions..."
   organization: "Teaching Assistant"
   organization_url: 
-  title: "Intermediate Microeconomics I - ARE 100 A"
+  title: "Intermediate Microeconomics I (ARE 100 A)"
   url: ""
 
   - certificate_url: 
@@ -47,7 +47,7 @@ item:
   description: "Lead discussions..."
   organization: "Teaching Assistant"
   organization_url: 
-  title: "Intermediate Microeconomics II - ARE 100 B"
+  title: "Intermediate Microeconomics II (ARE 100 B)"
   url: ""
 
   - certificate_url: 
@@ -56,7 +56,7 @@ item:
   description: ""
   organization: "Teaching Assistant"
   organization_url: 
-  title: "Population, Environment and World Agriculture -ARE 15"
+  title: "Population, Environment and World Agriculture (ARE 15)"
   url: ""
 
 - certificate_url: 
@@ -65,7 +65,7 @@ item:
   description: ""
   organization: "Teaching Assistant"
   organization_url: 
-  title: "Operations Research and Management Science -ARE 155"
+  title: "Operations Research and Management Science (ARE 155)"
   url: ""
 
   - certificate_url: 
@@ -74,7 +74,7 @@ item:
   description: ""
   organization: "Teaching Assistant"
   organization_url: 
-  title: "Principle of Finance -ARE 171"
+  title: "Principle of Finance (ARE 171)"
   url: ""
 
 design:
