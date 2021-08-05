@@ -20,7 +20,7 @@ feature:
   icon_pack: fab
   name: R
 
-- icon: STATA
+- icon: stata
   icon_pack: custom
   name: Stata
   
