@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Teaching Experience'
@@ -29,23 +29,23 @@ item:
   description:  "This applied microeconomics course is designed as the capstone course of the M.S. program in Agricultural & Resource Economics. The primary objective of the course is to help you synthesize your training in microeconomic theory and econometrics and further refine your research skills in applied economics."
   organization: Teaching Assistant
   organization_url: 
-  title: Applied Microeconomics Analysis (ARE 258)
+  title: ARE 258 - Applied Microeconomics Analysis 
   url: ""
 - certificate_url: 
   date_end: "2019-03-30"
   date_start: "2018-01-01"
-  description: "Lead discussions..."
+  description: ""
   organization: Teaching Assistant
   organization_url: 
-  title: Intermediate Microeconomics I (ARE 100 A)
+  title: ARE 100 A - Intermediate Microeconomics I 
   url: ""
 - certificate_url: 
   date_end: "2020-03-30"
   date_start: "2019-08-01"
-  description: "Lead discussions..."
+  description: ""
   organization: Teaching Assistant
   organization_url: 
-  title: Intermediate Microeconomics II (ARE 100 B)
+  title: ARE 100 B - Intermediate Microeconomics II 
   url: ""
 - certificate_url: 
   date_end: "2017-01-01"
@@ -53,7 +53,7 @@ item:
   description: "This course examines this debate, reviewing key facts and utilizing economic principles to understand the interactions among population change, food demand, natural resource use and agricultural change."
   organization: Teaching Assistant
   organization_url: 
-  title: Population, Environment and World Agriculture (ARE 15)
+  title: ARE 15 - Population, Environment and World Agriculture 
   url: ""
 - certificate_url: 
   date_end: "2021-06-15"
@@ -61,7 +61,7 @@ item:
   description: ""
   organization: Teaching Assistant
   organization_url: 
-  title: Operations Research and Management Science (ARE 155)
+  title: ARE 155 - Operations Research and Management Science 
   url: ""
 - certificate_url: 
   date_end: "2020-12-21"
@@ -69,7 +69,7 @@ item:
   description: ""
   organization: Teaching Assistant
   organization_url: 
-  title: Principle of Finance (ARE 171)
+  title: ARE 171 - Principle of Finance 
   url: ""
 
 design:
