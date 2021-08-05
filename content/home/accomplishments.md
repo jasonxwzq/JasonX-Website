@@ -23,29 +23,58 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: 
+  date_end: ""
+  date_start: "2021-01-01"
+  description:  "Masters capstone course"
+  organization: Teaching Assistant
+  organization_url: 
+  title: Applied Microeconomics Analysis - ARE 258
+  url: ""
+
 - certificate_url: 
   date_end: ""
   date_start: "2018-01-01"
-  description: "2017, 2018, 2019"
+  description: "Lead discussions..."
   organization: Teaching Assistant
   organization_url: 
-  title: (ARE 100 A) Intermediate Microeconomics
+  title: Intermediate Microeconomics I - ARE 100 A
   url: ""
-- certificate_url: https://www.edx.org
+
+  - certificate_url: 
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
+  date_start: "2018-01-01"
+  description: "Lead discussions..."
+  organization: Teaching Assistant
+  organization_url: 
+  title: Intermediate Microeconomics II - ARE 100 B
+  url: ""
+
+  - certificate_url: 
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Teaching Assistant
+  organization_url: 
+  title: Population, Environment and World Agriculture -ARE 15
+  url: ""
+  
+- certificate_url: 
+  date_end: "2020-12-21"
+  date_start: "2020-07-01"
+  description: ""
+  organization: Teaching Assistant
+  organization_url: 
+  title: Operations Research and Management Science -ARE 155
+  url: ""
+
+  - certificate_url: 
+  date_end: "2020-12-21"
+  date_start: "2020-07-01"
+  description: ""
+  organization: Teaching Assistant
+  organization_url: 
+  title: Principle of Finance -ARE 171
   url: ""
 
 design:
