@@ -24,6 +24,9 @@ feature:
   icon_pack: custom
   name: Stata
   
+- icon: overleaf
+  icon_pack: ai
+  name: Latex
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
