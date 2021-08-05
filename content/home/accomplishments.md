@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 
+- certificate_url: 
   date_end: ""
   date_start: "2021-01-01"
   description:  "Masters capstone course"
@@ -31,7 +31,7 @@ item:
   organization_url: 
   title: Applied Microeconomics Analysis (ARE 258)
   url: ""
-  - certificate_url: 
+- certificate_url: 
   date_end: ""
   date_start: "2018-01-01"
   description: "Lead discussions..."
@@ -39,7 +39,7 @@ item:
   organization_url: 
   title: Intermediate Microeconomics I (ARE 100 A)
   url: ""
-  - certificate_url: 
+- certificate_url: 
   date_end: ""
   date_start: "2018-01-01"
   description: "Lead discussions..."
@@ -47,7 +47,7 @@ item:
   organization_url: 
   title: Intermediate Microeconomics II (ARE 100 B)
   url: ""
-  - certificate_url: 
+- certificate_url: 
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
@@ -55,7 +55,7 @@ item:
   organization_url: 
   title: Population, Environment and World Agriculture (ARE 15)
   url: ""
-  - certificate_url: 
+- certificate_url: 
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
@@ -63,7 +63,7 @@ item:
   organization_url: 
   title: Operations Research and Management Science (ARE 155)
   url: ""
-  - certificate_url: 
+- certificate_url: 
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
