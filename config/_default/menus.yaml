@@ -10,8 +10,8 @@ main:
   - name: Teaching
     url: '#accomplishments'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Hobby
+    url: '#posts'
     weight: 50
   - name: Publications
     url: '#featured'
